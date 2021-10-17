@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I used Axios (a promise-based HTTP client) Library for accessing data from this Api - https://jsonplaceholder.typicode.com/users
 
 ## Available Scripts
 
